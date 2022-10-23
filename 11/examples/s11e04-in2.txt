@@ -1,0 +1,3 @@
+A short test TO see if this word count AlgoRithm really WOrks.
+For a Working algorithm there shOuld NoT be Any CaPital LettErS in the
+generated Output except maybe the table heeaders.
